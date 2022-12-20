@@ -1,0 +1,53 @@
+2022-12-20 20:12:574 INFO  ManageDriver :27 - Launching Chrome Browser
+2022-12-20 20:12:84 INFO  HomePage :49 - Clicking on login link : [[ChromeDriver: chrome on WINDOWS (3951c27477140ea88fb7a7a9c4386149)] -> link text: Log in]
+2022-12-20 20:12:130 INFO  LoginPage :40 - Getting welcome text [[ChromeDriver: chrome on WINDOWS (3951c27477140ea88fb7a7a9c4386149)] -> xpath: //h1[contains(text(),'Welcome, Please Sign In!')]]<br>
+2022-12-20 20:12:965 INFO  ManageDriver :27 - Launching Chrome Browser
+2022-12-20 20:12:471 INFO  HomePage :49 - Clicking on login link : [[ChromeDriver: chrome on WINDOWS (e0c8f8d0565856f5c1fd40e10630523e)] -> link text: Log in]
+2022-12-20 20:12:595 INFO  LoginPage :46 - Enter email abcd123@gmail.com to email field [[ChromeDriver: chrome on WINDOWS (e0c8f8d0565856f5c1fd40e10630523e)] -> id: Email]<br>
+2022-12-20 20:12:679 INFO  LoginPage :51 - Enter password xyz123 to password field [[ChromeDriver: chrome on WINDOWS (e0c8f8d0565856f5c1fd40e10630523e)] -> name: Password]<br>
+2022-12-20 20:12:443 INFO  LoginPage :56 - Clicking on Login Button <br>
+2022-12-20 20:12:496 INFO  LoginPage :61 - Getting error message : [[ChromeDriver: chrome on WINDOWS (e0c8f8d0565856f5c1fd40e10630523e)] -> xpath: //div[@class='message-error validation-summary-errors']]<br>
+2022-12-20 20:12:409 INFO  ManageDriver :27 - Launching Chrome Browser
+2022-12-20 20:12:213 INFO  HomePage :49 - Clicking on login link : [[ChromeDriver: chrome on WINDOWS (51cfb36cb264c159b11c9cc140fcf034)] -> link text: Log in]
+2022-12-20 20:12:329 INFO  LoginPage :46 - Enter email xyz123@gmail.com to email field [[ChromeDriver: chrome on WINDOWS (51cfb36cb264c159b11c9cc140fcf034)] -> id: Email]<br>
+2022-12-20 20:12:403 INFO  LoginPage :51 - Enter password abc123 to password field [[ChromeDriver: chrome on WINDOWS (51cfb36cb264c159b11c9cc140fcf034)] -> name: Password]<br>
+2022-12-20 20:12:736 INFO  LoginPage :56 - Clicking on Login Button <br>
+2022-12-20 20:12:784 INFO  LoginPage :61 - Getting error message : [[ChromeDriver: chrome on WINDOWS (51cfb36cb264c159b11c9cc140fcf034)] -> xpath: //div[@class='message-error validation-summary-errors']]<br>
+2022-12-20 20:12:744 INFO  ManageDriver :27 - Launching Chrome Browser
+2022-12-20 20:12:526 INFO  HomePage :49 - Clicking on login link : [[ChromeDriver: chrome on WINDOWS (92591ea47f95319a4e516e2ecb453c0e)] -> link text: Log in]
+2022-12-20 20:12:644 INFO  LoginPage :46 - Enter email adfafasd@gmail.com to email field [[ChromeDriver: chrome on WINDOWS (92591ea47f95319a4e516e2ecb453c0e)] -> id: Email]<br>
+2022-12-20 20:12:725 INFO  LoginPage :51 - Enter password xyz123 to password field [[ChromeDriver: chrome on WINDOWS (92591ea47f95319a4e516e2ecb453c0e)] -> name: Password]<br>
+2022-12-20 20:12:38 INFO  LoginPage :56 - Clicking on Login Button <br>
+2022-12-20 20:12:83 INFO  LoginPage :61 - Getting error message : [[ChromeDriver: chrome on WINDOWS (92591ea47f95319a4e516e2ecb453c0e)] -> xpath: //div[@class='message-error validation-summary-errors']]<br>
+2022-12-20 22:12:357 INFO  ManageDriver :27 - Launching Chrome Browser
+2022-12-20 22:12:986 INFO  HomePage :90 - Click on 'Computers' tab <br>
+2022-12-20 22:12:953 INFO  ComputerPage :37 - Click on 'Desktops' link <br>
+2022-12-20 22:12:640 INFO  DesktopsPage :55 - Click on product 'Build your own computer' : Build your own computer<br>
+2022-12-20 22:12:592 INFO  BuildYourOwnComputerPage :60 - Select processor '2.2 GHz Intel Pentium Dual-Core E2200'<br>
+2022-12-20 22:12:698 INFO  BuildYourOwnComputerPage :65 - Select RAM '2 GB'<br>
+2022-12-20 22:12:780 INFO  BuildYourOwnComputerPage :72 - Select HDD '320 GB'<br>
+2022-12-20 22:12:852 INFO  BuildYourOwnComputerPage :82 - Select HDD 'Vista Home [+$50.00]'<br>
+2022-12-20 22:12:915 INFO  BuildYourOwnComputerPage :92 - Select Software '[[ChromeDriver: chrome on WINDOWS (d65c14986bb567a5a34a384d73daba42)] -> xpath: //dd[@id='product_attribute_input_5']//li/label]'<br>
+2022-12-20 22:12:996 INFO  BuildYourOwnComputerPage :100 - Click on 'ADD TO CART' Button<br>
+2022-12-20 22:12:237 INFO  BuildYourOwnComputerPage :105 - Get productAdded Message : The product has been added to your shopping cart<br>
+2022-12-20 22:12:249 INFO  ManageDriver :27 - Launching Chrome Browser
+2022-12-20 22:12:810 INFO  HomePage :90 - Click on 'Computers' tab <br>
+2022-12-20 22:12:332 INFO  ComputerPage :37 - Click on 'Desktops' link <br>
+2022-12-20 22:12:720 INFO  DesktopsPage :55 - Click on product 'Build your own computer' : Build your own computer<br>
+2022-12-20 22:12:358 INFO  BuildYourOwnComputerPage :60 - Select processor '2.5 GHz Intel Pentium Dual-Core E2200 [+$15.00]'<br>
+2022-12-20 22:12:426 INFO  BuildYourOwnComputerPage :65 - Select RAM '4GB [+$20.00]'<br>
+2022-12-20 22:12:512 INFO  BuildYourOwnComputerPage :72 - Select HDD '400 GB [+$100.00]'<br>
+2022-12-20 22:12:585 INFO  BuildYourOwnComputerPage :82 - Select HDD 'Vista Premium [+$60.00]'<br>
+2022-12-20 22:12:651 INFO  BuildYourOwnComputerPage :92 - Select Software '[[ChromeDriver: chrome on WINDOWS (19b3bf63c7bf6fdf215a9c00dae3f3e2)] -> xpath: //dd[@id='product_attribute_input_5']//li/label]'<br>
+2022-12-20 22:12:718 INFO  BuildYourOwnComputerPage :100 - Click on 'ADD TO CART' Button<br>
+2022-12-20 22:12:934 INFO  BuildYourOwnComputerPage :105 - Get productAdded Message : The product has been added to your shopping cart<br>
+2022-12-20 22:12:840 INFO  ManageDriver :27 - Launching Chrome Browser
+2022-12-20 22:12:389 INFO  HomePage :90 - Click on 'Computers' tab <br>
+2022-12-20 22:12:436 INFO  ComputerPage :37 - Click on 'Desktops' link <br>
+2022-12-20 22:12:274 INFO  DesktopsPage :55 - Click on product 'Build your own computer' : Build your own computer<br>
+2022-12-20 22:12:584 INFO  BuildYourOwnComputerPage :60 - Select processor '2.5 GHz Intel Pentium Dual-Core E2200 [+$15.00]'<br>
+2022-12-20 22:12:642 INFO  BuildYourOwnComputerPage :65 - Select RAM '8GB [+$60.00]'<br>
+2022-12-20 22:12:703 INFO  BuildYourOwnComputerPage :72 - Select HDD '320 GB'<br>
+2022-12-20 22:12:828 INFO  BuildYourOwnComputerPage :92 - Select Software '[[ChromeDriver: chrome on WINDOWS (b7b632f36be666077a84becffbd461d7)] -> xpath: //dd[@id='product_attribute_input_5']//li/label]'<br>
+2022-12-20 22:12:872 INFO  BuildYourOwnComputerPage :100 - Click on 'ADD TO CART' Button<br>
+2022-12-20 22:12:176 INFO  BuildYourOwnComputerPage :105 - Get productAdded Message : The product has been added to your shopping cart<br>
